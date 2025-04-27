@@ -9,7 +9,8 @@ This is a simple 3-player checkers game built with Python and Tkinter.
   - Basic AI for Green player using Minimax algorithm.
 
 ## Demo
-![Game Screenshot](https://via.placeholder.com/600x400?text=Game+Screenshot)
+![image](https://github.com/user-attachments/assets/7741ae8f-a3ee-4be3-8ef2-05d811ff829a)
+
 
 ## Installation
 
