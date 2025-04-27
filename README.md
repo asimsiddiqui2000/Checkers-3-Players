@@ -15,5 +15,5 @@ This is a simple 3-player checkers game built with Python and Tkinter.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/3-player-checkers.git
+   git clone https://github.com/asimsiddiqui2000/3-player-checkers.git
    cd 3-player-checkers
