@@ -10,6 +10,7 @@ This is a simple 3-player checkers game built with Python and Tkinter.
 
 ## Demo
 ![image](https://github.com/user-attachments/assets/7741ae8f-a3ee-4be3-8ef2-05d811ff829a)
+https://screenrec.com/share/fowkHAvIRS
 
 
 ## Installation
