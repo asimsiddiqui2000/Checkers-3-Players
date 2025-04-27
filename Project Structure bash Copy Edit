@@ -1,0 +1,5 @@
+📁 3-player-checkers/
+ ├── checkers.py         # Main game code
+ ├── README.md            # Project documentation
+ ├── requirements.txt     # Python dependencies
+ └── .gitignore           # Files to ignore
